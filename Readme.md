@@ -16,7 +16,6 @@ This is a full-stack to-do list application built with Spring Boot, React, and P
 - **React**: Frontend library for building user interfaces.
 - **PostgreSQL**: Relational database for storing user information and tasks.
 - **Spring Security**: Provides user authentication and authorization functionalities.
-- **Hibernate**: ORM (Object-Relational Mapping) library for database operations.
 - **Axios**: JavaScript library for making HTTP requests from the frontend.
 
 ## Getting Started
@@ -24,7 +23,11 @@ This is a full-stack to-do list application built with Spring Boot, React, and P
 ### Prerequisites
 
 - Java Development Kit (JDK)
-- Node.js and npm (Node Package Manager)
+- Springboot
+- React Js
+- Google Calender
+- Chakra UI
+- Material UI
 - PostgreSQL
 
 ### Installation
@@ -32,4 +35,4 @@ This is a full-stack to-do list application built with Spring Boot, React, and P
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clonehttps://github.com/kalviumcommunity/Clari-training.git

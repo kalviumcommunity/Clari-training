@@ -106,7 +106,7 @@
 
 .Navbar{
   font-size: large;
-  border: 2px solid black;
+
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -170,6 +170,50 @@ font-family: pop;
     linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
 }
 
+
+/*Admin Page*/
+
+.Admin_Navbar{
+  font-size: large;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #E1DDF8;
+  height: 20vh;
+  padding: 10 auto; 
+}
+.Admin_dashboard{
+  font-size: x-large;
+  font-family: 'Poppins', sans-serif;
+  color: #241571;
+}
+.Admin_information{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.task_dashboard{
+  height: 15vh;
+  
+  margin-top: 35px;
+  padding: 5px 45px 5px 45px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.assignedTask{
+  font-size: xx-large;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+.assignedTo{
+  font-size: xx-large;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
 
 /* Responsive Styling */
 @media (max-width: 1200px){
